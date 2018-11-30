@@ -1,6 +1,6 @@
 {
-  "name": "sort-imports",
-  "displayName": "sort-imports",
+  "name": "outschoolsort-imports",
+  "displayName": "Outschool Sort Imports",
   "description": "Sort ES6 imports automatically.",
   "version": "6.0.0",
   "galleryBanner": {
@@ -8,18 +8,18 @@
     "theme": "dark"
   },
   "bugs": {
-    "url": "https://github.com/amatiasq/vsc-sort-imports/issues"
+    "url": "https://github.com/Phil-outschool/vsc-sort-imports/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/amatiasq/vsc-sort-imports.git"
+    "url": "https://github.com/Phil-outschool/vsc-sort-imports.git"
   },
   "icon": "assets/logo.png",
-  "publisher": "amatiasq",
+  "publisher": "Phil-outschool",
   "engines": {
     "vscode": "^1.6.0"
   },
-  "homepage": "https://github.com/amatiasq/vsc-sort-imports/blob/master/README.md",
+  "homepage": "https://github.com/Phil-outschool/vsc-sort-imports/blob/master/README.md",
   "license": "ISC",
   "categories": [
     "Languages",
@@ -96,9 +96,9 @@
     "vscode": "^1.1.18"
   },
   "dependencies": {
-    "import-sort": "^5.0.0",
-    "import-sort-config": "^5.0.0",
-    "import-sort-parser-babylon": "^5.0.0",
+    "import-sort": "^5.2.0",
+    "import-sort-config": "^5.2.0",
+    "import-sort-parser-babylon": "^5.2.0",
     "import-sort-parser-typescript": "^5.0.0",
     "import-sort-style-eslint": "^5.0.0",
     "import-sort-style-module": "^5.0.0",
